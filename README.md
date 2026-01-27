@@ -17,8 +17,8 @@ At the start of first lab, you need to set up your Python environment.  This can
 Here are the commands for setting up the environment.  These commands have been tested on DICE, but work in most other computing environments (with possible minor changes)
 
 ```shell
-git clone https://github.com/geoph9/asr-labs.git
-cd asr-labs
+git clone https://github.com/geoph9/asr_labs.git
+cd asr_labs
 source /opt/conda/etc/profile.d/conda.sh
 conda create -n asr_env python=3.7
 conda activate asr_env
